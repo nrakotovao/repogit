@@ -1,9 +1,9 @@
 README.txt
 
-Ce repo sert à valider l'exercice du parcours OpenClassrooms.
+Ce repo sert Ã  valider l'exercice du parcours OC.
 
-Le projet consiste à présenter un simple fichier HTML contenant un bouton.
-Un fichier style CSS va agrémenter la présentation visuelle.
-Un alerte sera généré lors d'un click sur le bouton.
+Le projet consiste Ã  prÃ©senter un simple fichier HTML contenant un bouton.
+Un fichier style CSS va agrÃ©menter la prÃ©sentation visuelle.
+Un alerte sera gÃ©nÃ©rÃ© lors d'un click sur le bouton.
 
 -nrakotovao
